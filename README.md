@@ -1,3 +1,4 @@
 # Lab X: Remote Sensing in Python
-## Overview
-Python is widely used for remote sensing and satellite image analysis applications. This lab serves as a basic intro to these possibilities. One of the reasons why Python is great for remote sensing, is numerous packages exist to make analysis easy.
+*Created by Ryan Poulsen for GEOG360: Environmental Remote Sensing*
+
+**Lab Goals**: In this lab, we will learn about the different packages available in Python to allow you to conduct geospatial and remote sensing analyses.
